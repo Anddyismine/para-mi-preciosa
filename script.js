@@ -60,29 +60,6 @@ const sections = {
             <p>Para mi suerte mi preciosa no es solamente la mujer mas hermosa de este mundo, sino que es una persona maravillosa también, es una mujer fuerte y bondadosa, aunque mi preciosa, tenga la cara más hermosa y el cuerpo más delicioso del mundo, cualquier persona se enamoraría de ella si hablara con ella a diario, se daría cuenta de lo comprensiva, de lo linda que es, de lo bien que te trata cuando te aprecia, de cómo pone todo su atención en ti, de como te cuida y te alegra el día, de como te cuenta una historia, de como te pide que la ahorques, que la quemes con velas, que la amarres y la azotes, y como te pide que le leas un cuento, de puede hablar por horas, y tu siempre vas a querer escucharla más, porque nunca es suficiente cuando se trata de ella, nunca van a ser suficientes las charlas, las miradas, los besos, pues aquel que la conozca de verdad entenderá aquellas ganas insaciables de ella, pues es tan hermosa, es tan preciosa, es tan única y divertida, que hay que aprovecharla siempre que se pueda, y deseo que ella sea mía y solo mía por esta vida.</p>
             <p>Te amo y parece que cada día te amo más y me enamoro más de la hermosa persona que eres</p>
 
-            <div class="fotos">
-                <div class=" polaroid_white fotom_1">
-                    <div class="polaroid_black">
-                        <img src="./imgs/img-preciosa/mipreciosa.jpeg" alt="">
-                    </div>
-                    
-                </div>
-                <div class="polaroid_white fotom_2">
-                    <div class="polaroid_black">
-                        <img src="./imgs/img-preciosa/mipreciosa_2.jpeg" alt="">
-                    </div>
-                </div>
-                <div class="polaroid_white fotom_3">
-                    <div class="polaroid_black">
-                        <img src="./imgs/img-preciosa/mipreciosa_3.jpeg" alt="">
-                    </div>
-                </div>
-                <div class="polaroid_white fotom_4">
-                    <div class="polaroid_black">
-                        <img src="./imgs/img-preciosa/mipreciosa_4.jpeg" alt="">
-                    </div>
-                </div>
-            </div>
             <button class="cinammo-card">
                 <img src="./icons/ cinnamo.png" alt="" srcset="">
                 <div><p>Volver al inicio</p></div>
@@ -105,19 +82,6 @@ const sections = {
             <p>Y permíteme recrear estas fotos contigo, y tomarnos mil y unas fotos más.</p>
             <p>Feliz primer San Valentin de muchos!!</p>
 
-            <div class="fotos-us">
-                <div class=" polaroid_white fotous_1">
-                    <div class="polaroid_black">
-                        <img src="./imgs/img-us/us-1.jpeg" alt="">
-                    </div>
-                    
-                </div>
-                <div class="polaroid_white fotous_2">
-                    <div class="polaroid_black">
-                        <img src="./imgs/img-us/us-2.png" alt="">
-                    </div>
-                </div>
-            </div>
             <button class="cinammo-card">
                 <img src="./icons/ cinnamo.png" alt="" srcset="">
                 <div><p>Volver al inicio</p></div>
